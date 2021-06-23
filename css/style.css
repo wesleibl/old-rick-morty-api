@@ -5,7 +5,6 @@ html, body, #home {
 
 body { 
 	background:
-				url(../imagens/),
 				linear-gradient(50deg,#eca0d6,#4c3cd6);
 				font-family: Montserrat,Helvetica,Arial,sans-serif;
 }
