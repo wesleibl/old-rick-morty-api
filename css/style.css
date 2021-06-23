@@ -1,0 +1,77 @@
+html, body, #home {
+	height: 100%;
+	overflow-x: hidden;
+}
+
+body { 
+	background:
+				url(../imagens/),
+				linear-gradient(50deg,#eca0d6,#4c3cd6);
+				font-family: Montserrat,Helvetica,Arial,sans-serif;
+}
+
+/* Deixando a navbar transparente e com sombra */
+.navbar{
+    background: rgba(0,0,0,0.6);
+    display: list-item;
+}
+
+/* Coloca a imagem da nav no centro */
+.navbar-brand {
+    margin-left: 50%;
+}
+
+#home{
+    margin-top: 5%;
+}
+
+#footer{
+    background: rgba(0,0,0,0.6);
+    display: list-item;
+    padding-left: 20%;
+}
+
+h1{
+    color: white;
+}
+
+section {
+    margin-top: 3%;
+}
+
+.spaceTop{
+    margin-top:3%;
+}
+
+.blackB {
+    background-color: rgba(37, 34, 34, 0.808);
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: white;
+    text-align: center;
+    padding-bottom: 0;
+}
+
+#nameM{
+    margin-bottom: 2%;
+    margin-left: 2%;
+}
+
+.toRight{
+    display: flex;
+    flex-direction: row;
+}
+
+.marginB{
+    margin-bottom: 7em;
+}
+
+.marginS{
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+.radiusB{
+    border-radius: 20px 20px 20px 20px;
+}
